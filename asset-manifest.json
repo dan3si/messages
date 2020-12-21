@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/messages/static/css/main.ae18c655.chunk.css",
+    "main.js": "/messages/static/js/main.300252d1.chunk.js",
+    "main.js.map": "/messages/static/js/main.300252d1.chunk.js.map",
+    "runtime-main.js": "/messages/static/js/runtime-main.54ee2fe3.js",
+    "runtime-main.js.map": "/messages/static/js/runtime-main.54ee2fe3.js.map",
+    "static/js/2.460dc296.chunk.js": "/messages/static/js/2.460dc296.chunk.js",
+    "static/js/2.460dc296.chunk.js.map": "/messages/static/js/2.460dc296.chunk.js.map",
+    "index.html": "/messages/index.html",
+    "static/css/main.ae18c655.chunk.css.map": "/messages/static/css/main.ae18c655.chunk.css.map",
+    "static/js/2.460dc296.chunk.js.LICENSE.txt": "/messages/static/js/2.460dc296.chunk.js.LICENSE.txt",
+    "static/media/MessagesHeader.module.scss": "/messages/static/media/refresh.a22cec68.svg",
+    "static/media/telegram.1051d4de.png": "/messages/static/media/telegram.1051d4de.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54ee2fe3.js",
+    "static/js/2.460dc296.chunk.js",
+    "static/css/main.ae18c655.chunk.css",
+    "static/js/main.300252d1.chunk.js"
+  ]
+}
