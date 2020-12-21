@@ -1,0 +1,93 @@
+.message {
+  width: 100vw;
+  max-width: 1000px;
+  display: flex;
+  align-items: center;
+  padding: 10px 40px;
+  border-bottom: 1px solid #eaf2ff;
+}
+
+.imagesWrapper {
+  position: relative;
+}
+
+.avatarWrapper {
+  width: 70px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 66px;
+  height: 66px;
+}
+
+.messengerWrapper {
+  height: 26px;
+  width: 26px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 3px 3px 10px #bbb;
+}
+
+.messengerIcon {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+
+.senderInfo {
+  width: 200px;
+  margin-left: 16px;
+  font-weight: bold;
+}
+
+.senderPhone {
+  margin-top: 8px;
+}
+
+.text {
+  margin-left: 80px;
+  width: 360px;
+  font-weight: bold;
+  color: #a3a8e4;
+}
+
+.time {
+  margin-left: 120px;
+  font-weight: bold;
+  color: #ababaf;
+}
+
+.date {
+  margin-left: 40px;
+  font-weight: bold;
+  color: #ababaf;
+}
+
+.readMessage {
+  background-color: #f9faff;
+
+  .senderName {
+    color: #707071;
+  }
+
+  .text {
+    color: #afb3e9;
+  }
+
+  .time, .date {
+    color: #b0b1b6;
+  }
+}

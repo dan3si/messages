@@ -1,0 +1,29 @@
+.header {
+  background-color: #eaf2ff;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.refresh {
+  display: block;
+  height: 28px;
+  width: 28px;
+  cursor: pointer;
+  background: url('../../images/icons/refresh.svg');
+  border: none;
+  transition: 300ms;
+
+  &:hover {
+    transform: rotate(25deg);
+  }
+}
+
+.total {
+  margin-left: 20px;
+}
+
+.unread {
+  margin-left: 40px;
+  font-weight: bold;
+}

@@ -1,0 +1,16 @@
+.messagesWrapper {
+  border-radius: 4px;
+  border: 1px solid #eee;
+  background-color: #fff;
+}
+
+.noMessages {
+  width: 100vw;
+  max-width: 1000px;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  border-bottom: 1px solid #eaf2ff;
+}
